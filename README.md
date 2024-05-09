@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Twinkle1989
+- 👋 Hi, I’m Twinkle Solanki, many people know me as Tiya! 
 - 👀 I’m interested in learning more aspects of programming and coding and this journery starts with exploring C 
 - 🌱 I’m currently learning coding in C language at Hive helsinki
 - 💞️ I’m looking to collaborate on new projects and also new ideas are welcome 🤗 
